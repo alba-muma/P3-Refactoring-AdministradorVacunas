@@ -1,0 +1,28 @@
+Name                                                       Stmts   Miss Branch BrPart  Cover
+--------------------------------------------------------------------------------------------
+\uc3m_care\__init__.py                                         6      0      0      0   100%
+\uc3m_care\cfg\__init__.py                                     0      0      0      0   100%
+\uc3m_care\cfg\vaccine_manager_config.py                       3      0      0      0   100%
+\uc3m_care\data\__init__.py                                    0      0      0      0   100%
+\uc3m_care\data\attribute\attribute.py                        19      4      4      0    83%
+\uc3m_care\data\attribute\attribute_age.py                    12      0      6      0   100%
+\uc3m_care\data\attribute\attribute_name_surname.py            6      0      2      0   100%
+\uc3m_care\data\attribute\attribute_patient_system_id.py       6      0      2      0   100%
+\uc3m_care\data\attribute\attribute_phone_number.py            6      0      2      0   100%
+\uc3m_care\data\attribute\attribute_registration_type.py       6      0      2      0   100%
+\uc3m_care\data\attribute\attribute_uuid.py                   16      0      2      0   100%
+\uc3m_care\data\vaccination_appoinment.py                     65     10      4      1    84%
+\uc3m_care\data\vaccine_log.py                                36      1      8      0    98%
+\uc3m_care\data\vaccine_patient_register.py                   83      8      4      0    91%
+\uc3m_care\exception\__init__.py                               0      0      0      0   100%
+\uc3m_care\exception\vaccine_management_exception.py          10      1      2      0    92%
+\uc3m_care\parser\appointment_json_parser.py                   4      0      2      0   100%
+\uc3m_care\parser\json_parser.py                              28      1      8      1    94%
+\uc3m_care\storage\__init__.py                                 0      0      0      0   100%
+\uc3m_care\storage\appointment_json_store.py                  19      0      6      0   100%
+\uc3m_care\storage\json_store.py                              36      5     12      1    88%
+\uc3m_care\storage\patient_json_store.py                      26      0     10      0   100%
+\uc3m_care\storage\vaccine_json_store.py                       7      0      2      0   100%
+\uc3m_care\vaccine_manager.py                                 25      0      2      0   100%
+--------------------------------------------------------------------------------------------
+TOTAL                                                        419     30     80      3    93%
